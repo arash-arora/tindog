@@ -7,7 +7,6 @@ body{
 #title{
   background-color: #ff4c68;
   color: white;
-  height: 650px;
 }
 
 .title-section .col-md-6 h1{
@@ -50,8 +49,7 @@ body{
 .title-image{
   width: 60%;
   transform: rotate(25deg);
-  margin-bottom: 50px;
-  z-index: -1;
+  position: absolute;
 }
 
 
