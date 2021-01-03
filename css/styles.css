@@ -7,6 +7,7 @@ body{
 #title{
   background-color: #ff4c68;
   color: white;
+  height: 650px;
 }
 
 .title-section .col-md-6 h1{
@@ -42,17 +43,24 @@ body{
   margin: 5% 3% 5% 0;
 }
 
-
+.title-download{
+  margin-bottom: 50px;
+}
 /* Title Image */
 .title-image{
   width: 60%;
   transform: rotate(25deg);
+  margin-bottom: 50px;
+  z-index: -1;
 }
 
 
 /* Features */
 #features{
  padding: 7% 15%;
+ background: white;
+ position: relative;
+ z-index: 1;
 }
 #features .row .col-lg-4{
   text-align: center;
@@ -81,7 +89,6 @@ body{
 
 /* Testimonials section */
 #testimonials{
-  padding: 7% 15%;
   text-align: center;
   background-color: #ef8172;
   color: white;
@@ -96,7 +103,9 @@ body{
   border-radius: 100%;
   margin: 20px;
 }
-
+.carousel-item{
+    padding: 7% 15%;
+}
 
 /* Press */
 #press{
@@ -106,4 +115,20 @@ body{
 .press-logo{
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+
+/* Pricing section */
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-col{
+  padding: 3% 2%;
+}
+.card-body h2{
+  font-family: 'Montserrat'
+}
+.card-body p{
+  color: #8f8f8f;
 }
