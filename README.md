@@ -4,7 +4,7 @@ So away we go,
 
 Here is the template a picture rather decribing the very first dating app for dogs lol :) 
 
-![site-template](https://user-images.githubusercontent.com/52750629/104054246-c4d34080-5212-11eb-9375-98a342931033.PNG)
+![Site-Template](https://user-images.githubusercontent.com/52750629/104054699-94d86d00-5213-11eb-9066-ae85fcf7a63f.PNG)
 
 And here is our first happy user. Say Hello to Mr. Pebbles
 
